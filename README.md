@@ -1,19 +1,21 @@
 # Welcome to My Select Query
 ***
+Welcome to my Ruby select Query
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+The problem is to learn news concepts and to have a skills for to manage the Selection of
+data in Ruby.
 
 ## Description
-TODO - How have you solved the problem?
+I've searched in the Web how select in Ruby the data, and how to manage all this.
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+For this project, we haven't need of installation.
 
 ## Usage
-TODO - How does it work?
+Select Query work in :
 ```
-./my_project argument1 argument2
+./my_project ex00
 ```
 
 ### The Core Team
